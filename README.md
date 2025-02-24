@@ -1,4 +1,4 @@
-# PositronHardware
+# Positron Hardware
 Contains information and drawings for PCBs used in the LDO Positrons
 
 ## Exceptions to CC BY-SA 4.0 for LDO Motors – Positron 3D PCBs
